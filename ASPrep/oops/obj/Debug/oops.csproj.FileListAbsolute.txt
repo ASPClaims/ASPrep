@@ -1,0 +1,67 @@
+C:\Users\chikoti\Desktop\oops\oops\oops\bin\oops.dll
+C:\Users\chikoti\Desktop\oops\oops\oops\bin\oops.pdb
+C:\Users\chikoti\Desktop\oops\oops\oops\bin\Antlr3.Runtime.dll
+C:\Users\chikoti\Desktop\oops\oops\oops\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\chikoti\Desktop\oops\oops\oops\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\chikoti\Desktop\oops\oops\oops\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\chikoti\Desktop\oops\oops\oops\bin\DotNetOpenAuth.Core.dll
+C:\Users\chikoti\Desktop\oops\oops\oops\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\chikoti\Desktop\oops\oops\oops\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\chikoti\Desktop\oops\oops\oops\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\chikoti\Desktop\oops\oops\oops\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\chikoti\Desktop\oops\oops\oops\bin\EntityFramework.dll
+C:\Users\chikoti\Desktop\oops\oops\oops\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\chikoti\Desktop\oops\oops\oops\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\chikoti\Desktop\oops\oops\oops\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\chikoti\Desktop\oops\oops\oops\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\chikoti\Desktop\oops\oops\oops\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\chikoti\Desktop\oops\oops\oops\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\chikoti\Desktop\oops\oops\oops\bin\System.Web.Optimization.dll
+C:\Users\chikoti\Desktop\oops\oops\oops\bin\System.Web.Providers.dll
+C:\Users\chikoti\Desktop\oops\oops\oops\bin\WebGrease.dll
+C:\Users\chikoti\Desktop\oops\oops\oops\bin\EntityFramework.xml
+C:\Users\chikoti\Desktop\oops\oops\oops\bin\DotNetOpenAuth.Core.xml
+C:\Users\chikoti\Desktop\oops\oops\oops\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\chikoti\Desktop\oops\oops\oops\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\chikoti\Desktop\oops\oops\oops\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\chikoti\Desktop\oops\oops\oops\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\chikoti\Desktop\oops\oops\oops\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\chikoti\Desktop\oops\oops\oops\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\chikoti\Desktop\oops\oops\oops\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\chikoti\Desktop\oops\oops\oops\obj\Debug\oops.dll
+C:\Users\chikoti\Desktop\oops\oops\oops\obj\Debug\oops.pdb
+C:\Users\chikoti\Desktop\oops\oops\oops\obj\Debug\oops.csprojResolveAssemblyReference.cache
+C:\NAresh BAck Up\works\oops\oops\oops\bin\oops.dll.config
+C:\NAresh BAck Up\works\oops\oops\oops\bin\oops.dll
+C:\NAresh BAck Up\works\oops\oops\oops\bin\oops.pdb
+C:\NAresh BAck Up\works\oops\oops\oops\bin\Antlr3.Runtime.dll
+C:\NAresh BAck Up\works\oops\oops\oops\bin\AspNet.ScriptManager.jQuery.dll
+C:\NAresh BAck Up\works\oops\oops\oops\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\NAresh BAck Up\works\oops\oops\oops\bin\DotNetOpenAuth.AspNet.dll
+C:\NAresh BAck Up\works\oops\oops\oops\bin\DotNetOpenAuth.Core.dll
+C:\NAresh BAck Up\works\oops\oops\oops\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\NAresh BAck Up\works\oops\oops\oops\bin\DotNetOpenAuth.OAuth.dll
+C:\NAresh BAck Up\works\oops\oops\oops\bin\DotNetOpenAuth.OpenId.dll
+C:\NAresh BAck Up\works\oops\oops\oops\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\NAresh BAck Up\works\oops\oops\oops\bin\EntityFramework.dll
+C:\NAresh BAck Up\works\oops\oops\oops\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\NAresh BAck Up\works\oops\oops\oops\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\NAresh BAck Up\works\oops\oops\oops\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\NAresh BAck Up\works\oops\oops\oops\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\NAresh BAck Up\works\oops\oops\oops\bin\Microsoft.ScriptManager.WebForms.dll
+C:\NAresh BAck Up\works\oops\oops\oops\bin\Microsoft.Web.Infrastructure.dll
+C:\NAresh BAck Up\works\oops\oops\oops\bin\System.Web.Optimization.dll
+C:\NAresh BAck Up\works\oops\oops\oops\bin\System.Web.Providers.dll
+C:\NAresh BAck Up\works\oops\oops\oops\bin\WebGrease.dll
+C:\NAresh BAck Up\works\oops\oops\oops\bin\EntityFramework.xml
+C:\NAresh BAck Up\works\oops\oops\oops\bin\DotNetOpenAuth.Core.xml
+C:\NAresh BAck Up\works\oops\oops\oops\bin\DotNetOpenAuth.OAuth.xml
+C:\NAresh BAck Up\works\oops\oops\oops\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\NAresh BAck Up\works\oops\oops\oops\bin\DotNetOpenAuth.OpenId.xml
+C:\NAresh BAck Up\works\oops\oops\oops\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\NAresh BAck Up\works\oops\oops\oops\bin\DotNetOpenAuth.AspNet.xml
+C:\NAresh BAck Up\works\oops\oops\oops\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\NAresh BAck Up\works\oops\oops\oops\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\NAresh BAck Up\works\oops\oops\oops\obj\Debug\oops.csprojResolveAssemblyReference.cache
+C:\NAresh BAck Up\works\oops\oops\oops\obj\Debug\oops.dll
+C:\NAresh BAck Up\works\oops\oops\oops\obj\Debug\oops.pdb

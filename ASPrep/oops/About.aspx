@@ -17,6 +17,8 @@
 
         <p>        
             Use this area to provide additional information.
+
+            // Git pull example
         </p>
     </article>
 
